@@ -1,4 +1,4 @@
-# Compiled class file
+# Compiled class file 新版拦截规则
 *.class
 
 # Log file
@@ -13,7 +13,6 @@
 # Package Files #
 *.jar
 *.war
-*.nar
 *.ear
 *.zip
 *.tar.gz
@@ -21,3 +20,16 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+*.iml
+.idea
+.idea/*
+target
+target/*
+bin
+bin/*
+
+.project
+.project/*
+.settings
+.settings/*
